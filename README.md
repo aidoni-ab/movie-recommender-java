@@ -29,7 +29,7 @@ You will need an API key from TMDb to access the movie data. Sign up for an API 
    Run the following commands in your terminal:
 
     ```bash
-    git clone git@github.com:aidoni-ab/movie-recommender.git
+    git clone git@github.com:aidoni-ab/movie-recommender-java.git
     cd movie-recommendation-system
     ```
 
